@@ -1,0 +1,1 @@
+Programa de consola que llama a servicio del BCN para obtener el tipo de cambio del mes actual
